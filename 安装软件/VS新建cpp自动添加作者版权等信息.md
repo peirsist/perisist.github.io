@@ -2,11 +2,11 @@
 
 #### 参考
 
-- [(5条消息) 给VS2019添加上自己的个人信息_孤傲小二~阿沐的博客-CSDN博客_vs2019添加作者](https://blog.csdn.net/weixin_43949535/article/details/100050210)
-- [华为C语言编程规范（3）—注释_C语言中文网 (biancheng.net)](http://c.biancheng.net/cpp/html/761.html)
-- [【C#】VS2019新建C#类自动添加作者版权等信息 - 清风来叙 - 博客园 (cnblogs.com)](https://www.cnblogs.com/minuy/p/14058721.html)
+- [给VS2019添加上自己的个人信息_vs2019添加作者](https://blog.csdn.net/weixin_43949535/article/details/100050210)
+- [华为C语言编程规范（3）—注释_C语言中文网 ](http://c.biancheng.net/cpp/html/761.html)
+- [【C#】VS2019新建C#类自动添加作者版权等信息](https://www.cnblogs.com/minuy/p/14058721.html)
 
-- [(5条消息) c语言注释规范_godven-CSDN博客_c语言注解](https://blog.csdn.net/weixin_40962970/article/details/115005630)
+- [c语言注释规范_c语言注解](https://blog.csdn.net/weixin_40962970/article/details/115005630)
 
 
 
