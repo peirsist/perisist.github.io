@@ -1,19 +1,19 @@
 <!-- docs/_sidebar.md -->
 - 📁 安装软件
-    - [安装ndnSIM](安装软件/)
-    - [VS新建cpp自动添加作者版权等信息](安装软件/VS新建cpp自动添加作者版权等信息)
+    - [安装<font face="Monaco">ndnSIM</font>](安装软件/)
+    - [<font face="Monaco">VS</font>新建<font face="Monaco">cpp</font>自动添加作者版权等信息](安装软件/VS新建cpp自动添加作者版权等信息)
 - 💾 软件使用
-    - [LaTex](软件使用/LaTex)
-    - [Origin](软件使用/Origin)
+    - [<font face="Monaco">LaTex</font>](软件使用/LaTex)
+    - [<font face="Monaco">Origin</font>](软件使用/Origin)
   
 - 💻 计算机基础
     - [数据结构](计算机基础/数据结构)
     - [计算机网络](计算机基础/计算机网络)
 - 👨‍💻 编程语言
-    - [C/C++](编程/C++)
-    - [Python](编程/Python)
-    - [Matlab](编程/Matlab)
-    - [Markdown](编程/Markdown.md)
+    - [<font face="Monaco">C/C++</font>](编程/C++)
+    - [<font face="Monaco">Python</font>](编程/Python)
+    - [<font face="Monaco">Matlab</font>](编程/Matlab)
+    - [<font face="Monaco">Markdown</font>](编程/Markdown.md)
 - 📚 学习方法
     - [费曼学习法](学习方法/费曼学习法)
 - 💡 英语学习
