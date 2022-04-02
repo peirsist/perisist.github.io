@@ -13,6 +13,9 @@
 - [「LaTeX」LaTeX 中三种向量表示：粗体1，粗体2，箭头向量 - 哔哩哔哩 (bilibili.com)](https://www.bilibili.com/read/cv3599113/#:~:text=「LaTeX」LaTeX 中三种向量表示：粗体1，粗体2，箭头向量 学习 2019-09-14 20%3A45,--阅读 · --喜欢 · --评论)
 - [LaTeX宏包学习笔记之tcolorbox - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/338377565)
 - [Latex彩色框_金良山庄-CSDN博客_latex彩色盒子模板](https://blog.csdn.net/golden1314521/article/details/42871065)
+- Latex下划线[方法1](https://blog.csdn.net/hongnuaa/article/details/6901658?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&utm_relevant_index=1) [方法2](https://blog.csdn.net/qq_41684259/article/details/108066854?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&utm_relevant_index=2) [方法3](https://blog.csdn.net/weixin_44471218/article/details/119031672#:~:text=默认情况下， latex 会将 下划线 "_" 解释为数学模式,中 的下标表示的一部分，这种处理很多情况下是非常不爽的，比如代码 中 的 下划线 变量：host_name之类的。)
+- [LATEX调整公式、图片与正文间距离，文字间距离，调整空白大小_风景不在对岸wj的博客-CSDN博客_latex调整图片与文字的距离](https://blog.csdn.net/u011089523/article/details/83578005?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_antiscanv2&utm_relevant_index=1)
+- [LaTeX 在编译时出现 File ended while scanning use of \@writefile错误_weixin_34054866的博客-CSDN博客](https://blog.csdn.net/weixin_34054866/article/details/86250933)
 - 
 
 

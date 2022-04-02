@@ -12,3 +12,63 @@
 2. [开学回归力扣：第十二题—— 229. 求众数 II（摩尔投票法）_xiangguang_fight的博客-CSDN博客](https://blog.csdn.net/xiangguang_fight/article/details/114839642?spm=1001.2101.3001.6650.8&utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-8.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-8.pc_relevant_default&utm_relevant_index=10)
 2. 
 
+------
+
+-----
+
+##### **毕设遇到的编程问题：**
+
+2021年3月24日
+
+- [C语言全局变量多个cpp,c++多个文件中共用一个全局变量 变量跨文件使用_李勖晟的博客-CSDN博客](https://blog.csdn.net/weixin_30684945/article/details/117078693?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_antiscanv2&utm_relevant_index=1)
+
+- [C++将一个cpp文件中的变量应用到另一个cpp文件中_公子恒的博客-CSDN博客](https://blog.csdn.net/qq_27942333/article/details/84719737)
+
+  ```C++
+  int i; //声明并定义 
+  extern int i; //声明 
+  extern int i=10; //定义 
+   
+  void f(); //声明 
+  void f() {}; //定义
+  ```
+
+- [C++ getline函数用法详解 (biancheng.net)](http://c.biancheng.net/view/1345.html)
+
+- [C 库函数 – strcpy() | 菜鸟教程 (runoob.com)](https://www.runoob.com/cprogramming/c-function-strcpy.html)
+
+- [string中c_str()的用法_Lemonbr的博客-CSDN博客_string.c_str](https://blog.csdn.net/qq_41282102/article/details/82695562)
+
+- [C++强制类型转换操作符 static_cast - melonstreet - 博客园 (cnblogs.com)](https://www.cnblogs.com/QG-whz/p/4509710.html)
+
+- [C++类型转换之reinterpret_cast - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/33040213)
+
+- [C++ 报错 error: ‘xxx’ was not declared in this scope_wongHome的博客-CSDN博客](https://blog.csdn.net/qq_39779233/article/details/107585014)
+
+- 
+
+----
+
+#### **C++生成随机数？**
+
+- [C++产生随机数_on_june_7th的博客-CSDN博客_c++随机数](https://blog.csdn.net/on_june_7th/article/details/120392619)
+- [C++中rand()函数的用法_风暴计划的博客-CSDN博客_c++ rand()](https://blog.csdn.net/cmm0401/article/details/54599083)
+- [C++寻找数组最大值和最小值_Jeff_的博客-CSDN博客_c++求数组中的最大值和最小值](https://blog.csdn.net/weixin_40539125/article/details/82721340)
+
+rand()不需要参数，它会返回一个从0到最大随机数的任意整数，最大随机数的大小通常是固定的一个大整数。**`int num = rand() % 100`**;  所以，num的值就是一个0~99中的一个随机数了。
+
+如果要产生1~100，则是这样：
+
+```c++
+int num = rand() % 100 + 1; 
+```
+
+**总结来说**，可以表示为：**`int num = rand() % n +a`;** 其中的**`a`**是起始值，**`n-1+a`**是终止值，**`n`**是整数的范围。
+
+**一般性**：**`rand() % (b-a+1)+ a `**;   就表示  **`a~b`** 之间的一个随机整数。
+
+若要产生0-1之间的小数，则可以先取得0-10的整数，然后均除以10即可得到“随机到十分位”的10个随机小数。
+
+通常`rand()`产生的随机数在每次运行的时候都是与上一次相同的，这样是为了便于程序的调试。
+
+ 若要产生每次不同的随机数，则可以使用`srand( seed )`函数进行产生随机化种子，随着seed的不同，就能够产生     不同的随机数。

@@ -1,11 +1,11 @@
 ## 初衷
 
-<style>
+<!-- <style>
 blockquote {
   border-left: 2px dashed #333 !important;
   background:  #efe 20% !important;
 }
-</style>
+</style> -->
 
 <style>
 blockquote {
