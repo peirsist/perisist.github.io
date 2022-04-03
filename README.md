@@ -11,6 +11,8 @@ blockquote {
 blockquote {
   border-left: 2px dashed #333 !important;
   background:  #e4f2fe 0% !important;  
+  /* background:  #CBFDE4 0% !important; */
+  /* background:  #F8F8FF 0% !important; */
 }
 </style>
 
