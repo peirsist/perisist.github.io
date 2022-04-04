@@ -7,6 +7,9 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dolphin.css">
+  <!-- Theme: Simple -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
+
 </head>
 <body>
   <div id="app"></div>
@@ -18,6 +21,10 @@
       repo: '',
       loadNavbar: true,
       loadSidebar: true,
+      alias: {
+      '/.*/_sidebar.md': '/_sidebar.md',
+    },
+      subMaxLevel: 3,
       coverpage: true,
       count:{
         countable:true,
@@ -27,6 +34,10 @@
       }
     }
   </script>
+  
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> -->
+  <!-- plugins --> 导航栏缩进的样式
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <!-- search -->
@@ -40,5 +51,25 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  <!-- docsify-themeable (latest v0.x.x) -->
+  <!-- <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script> -->
+  <!-- 导航栏缩进样式 -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" /> -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
+  <!-- 评论 -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+<script>
+  const gitalk = new Gitalk({
+    clientID: 'Github Application Client ID',
+    clientSecret: 'Github Application Client Secret',
+    repo: 'Github repo',
+    // owner: 'Github repo owner',
+    admin: ['Github repo collaborators, only these guys can initialize github issues'],
+    // facebook-like distraction free mode
+    // distractionFreeMode: false
+  })
+</script> -->
 </body>
 </html>
