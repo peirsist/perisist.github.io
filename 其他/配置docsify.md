@@ -62,4 +62,7 @@ git push -u origin main
 - [使用Markmap将docsify中的markdown通过思维导图的形式展示出来 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/352795634)
 - [笑脸表情类目所有emoji - 笑脸表情有关的表情符号 - EmojiXD](https://emojixd.com/subgroup/face-smiling)
 - [docsify导航栏缩进](https://github.com/iPeng6/docsify-sidebar-collapse)
+- [docsify的配置+全插件列表 - 邓邓的流水账 (xhhdd.cc)](https://xhhdd.cc/index.php/archives/80/)
+- [docsify文字高亮]([GitHub - fzankl/docsify-plugin-flexible-alerts: docsify plugin to convert blockquotes into beautiful and configurable alerts using preconfigured or own styles and alert types.](https://github.com/fzankl/docsify-plugin-flexible-alerts))
+- 
 
