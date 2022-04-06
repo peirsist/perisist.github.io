@@ -2,7 +2,7 @@
 
 ## 1、基本语法
 
-1. [**<font face="Monaco">sprintf()</font>**函数：将格式化的数据写入字符串_C语言中文网](http://c.biancheng.net/cpp/html/295.html)
+1. [<font face="Monaco">sprintf()</font>函数：将格式化的数据写入字符串_C语言中文网](http://c.biancheng.net/cpp/html/295.html)
    - <font face="Monaco">`sprintf()`</font>的作用是将一个格式化的字符串输出到一个**目的字符串**中，而<font face="Monaco">`printf()`</font>是将一个格式化的字符串**输出到屏幕**。
    - <font face="Monaco">`int sprintf(char *str, char * format [, argument, ...])`</font>。<font face="Monaco">str</font>为要写入的字符串；<font face="Monaco">format</font>为格式化字符串，与<font face="Monaco">`printf()`</font>函数相同；<font face="Monaco">argument</font>为变量。
 2. [<font face="Monaco">fscanf()</font>函数：将文件流中的数据格式化输入_C语言中文网](http://c.biancheng.net/cpp/html/2522.html)
@@ -50,13 +50,13 @@
 ----
 ---
 
-# **`C++`生成随机数？**
+# **C++生成随机数？**
 
 - [C++产生随机数_on_june_7th的博客-CSDN博客_c++随机数](https://blog.csdn.net/on_june_7th/article/details/120392619)
 - [C++中rand()函数的用法_风暴计划的博客-CSDN博客_c++ rand()](https://blog.csdn.net/cmm0401/article/details/54599083)
 - [C++寻找数组最大值和最小值_Jeff_的博客-CSDN博客_c++求数组中的最大值和最小值](https://blog.csdn.net/weixin_40539125/article/details/82721340)
 
-**`rand()`** 不需要参数，它会返回一个从 __`0`__ 到最大随机数的任意整数，最大随机数的大小通常是固定的一个大整数。__`int num = rand() % 100`__ ;  所以，num的值就是一个 __`0~99`__ 中的一个随机数了。
+**rand()** 不需要参数，它会返回一个从 __`0`__ 到最大随机数的任意整数，最大随机数的大小通常是固定的一个大整数。__`int num = rand() % 100`__ ;  所以，num的值就是一个 __`0~99`__ 中的一个随机数了。
 
 如果要产生 __`1~100`__ ，则是这样：
 
@@ -66,7 +66,7 @@ int num = rand() % 100 + 1;
 
 **总结来说**，可以表示为： __`int num = rand() % n +a`__; 其中的 **`a`** 是起始值， **`n-1+a`** 是终止值， __`n`__ 是整数的范围。
 
-**一般性** ：__`rand() % (b-a+1)+ a `__;   就表示  __`a~b`__ 之间的一个随机整数。
+**一般性** ：`rand() % (b-a+1)+ a `;   就表示  __`a~b`__ 之间的一个随机整数。
 
 若要产生 __`0-1`__ 之间的小数，则可以先取得 __`0-10`__ 的整数，然后均除以 __`10`__ 即可得到“随机到十分位”的 __`10`__ 个随机小数。
 

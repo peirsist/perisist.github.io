@@ -65,5 +65,7 @@ git push -u origin main
 - [docsify的配置+全插件列表 - 邓邓的流水账 (xhhdd.cc)](https://xhhdd.cc/index.php/archives/80/)
 - [Docsify高亮](https://github.com/fzankl/docsify-plugin-flexible-alerts)
 - [(ฅ>ω<*ฅ) 噫又好了~Docsify进阶配置 | 小四先生的博客 (zxiaosi.cn)](https://zxiaosi.cn/archives/cd1d42d1.html)
+- [主题](https://jhildenbiddle.github.io/docsify-themeable/#/options)
+- [font-weight - CSS（层叠样式表） | MDN (mozilla.org)](https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-weight)
 - 
 
