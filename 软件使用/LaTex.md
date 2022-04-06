@@ -6,14 +6,14 @@
 
 - [latex中\begin{verbatim}以及\verb有什么用？_音程的博客-CSDN博客](https://blog.csdn.net/qq_43391414/article/details/115129492)
 - [Latex 中的空格汇总_hysterisis的博客-CSDN博客](https://blog.csdn.net/hysterisis/article/details/114123131)
-- [LaTeX省略号 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/104112163#:~:text=在LaTeX中，分别使用“\ldots”，“\cdots”，“\vdots”，“\ddots”实现各种省略号. 可以看出“\ldots”实现了居底部的省略号，“\cdots”实现了居中的省略号.,而命令“\dots”可以根据实际情况自动地改变省略号的位置. 在写作的过程中，要根据自己的实际情况灵活地使用这些省略号（感谢评论指出）.)
+- [LaTeX省略号 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/104112163#:~:text=)在LaTeX中，分别使用“\ldots”，“\cdots”，“\vdots”，“\ddots”实现各种省略号. 可以看出“\ldots”实现了居底部的省略号，“\cdots”实现了居中的省略号.,而命令“\dots”可以根据实际情况自动地改变省略号的位置. 在写作的过程中，要根据自己的实际情况灵活地使用这些省略号（感谢评论指出）.)
 - [Latex报错Missing $ inserted.inserted text_个人博客-CSDN博客](https://blog.csdn.net/zhangpeterx/article/details/86032665)
 - [Latex输入特殊字符#$%&{}_^-＜＞|\_执念斩长河-CSDN博客_latex怎么打&](https://blog.csdn.net/m0_37149062/article/details/108240050)
 - [Latex中输入数学中的“属于” 符号_sclxf的专栏-CSDN博客_latex属于符号怎么打](https://blog.csdn.net/sclxf/article/details/5387630)
 - [「LaTeX」LaTeX 中三种向量表示：粗体1，粗体2，箭头向量 - 哔哩哔哩 (bilibili.com)](https://www.bilibili.com/read/cv3599113/#:~:text=「LaTeX」LaTeX 中三种向量表示：粗体1，粗体2，箭头向量 学习 2019-09-14 20%3A45,--阅读 · --喜欢 · --评论)
 - [LaTeX宏包学习笔记之tcolorbox - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/338377565)
 - [Latex彩色框_金良山庄-CSDN博客_latex彩色盒子模板](https://blog.csdn.net/golden1314521/article/details/42871065)
-- Latex下划线[方法1](https://blog.csdn.net/hongnuaa/article/details/6901658?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&utm_relevant_index=1) [方法2](https://blog.csdn.net/qq_41684259/article/details/108066854?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&utm_relevant_index=2) [方法3](https://blog.csdn.net/weixin_44471218/article/details/119031672#:~:text=默认情况下， latex 会将 下划线 "_" 解释为数学模式,中 的下标表示的一部分，这种处理很多情况下是非常不爽的，比如代码 中 的 下划线 变量：host_name之类的。)
+- Latex下划线[方法1](https://blog.csdn.net/hongnuaa/article/details/6901658?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&utm_relevant_index=1) [方法2](https://blog.csdn.net/qq_41684259/article/details/108066854?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&utm_relevant_index=2) [方法3](https://blog.csdn.net/weixin_44471218/article/details/119031672#:~:text=)默认情况下， latex 会将 下划线 "_" 解释为数学模式,中 的下标表示的一部分，这种处理很多情况下是非常不爽的，比如代码 中 的 下划线 变量：host_name之类的。)
 - [LATEX调整公式、图片与正文间距离，文字间距离，调整空白大小_风景不在对岸wj的博客-CSDN博客_latex调整图片与文字的距离](https://blog.csdn.net/u011089523/article/details/83578005?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_antiscanv2&utm_relevant_index=1)
 - [LaTeX 在编译时出现 File ended while scanning use of \@writefile错误_weixin_34054866的博客-CSDN博客](https://blog.csdn.net/weixin_34054866/article/details/86250933)
 - 
@@ -21,7 +21,7 @@
 
 
 
-
+## 常用的代码片段
 
 
 ```latex
@@ -49,11 +49,11 @@
 
 
 
-# 插入公式
+## 插入公式
 
 #### 插入多行公式时，空格问题
 
-第一个正确，第二个不对，因此在插入公式时，就不要有空格，避免不必要的麻烦。
+第一个正确，第二个不对，因此在 **插入公式时，就不要有空格** ，避免不必要的麻烦。
 
 ```latex
 \begin{equation}

@@ -1,6 +1,6 @@
 # 配置docsify
-[toc]
-#### 0. 相关链接
+
+## 0. 相关链接
 
 - [ GitHub+docsify搭建个人博客_Pwalker的博客-CSDN博客_docsify部署到github上](https://blog.csdn.net/Pwalker/article/details/105434900)
 - [docsify+github/gitee搭建个人在线文档_Mark_md的博客-CSDN博客_docsify 代码高亮](https://blog.csdn.net/Mark_md/article/details/121457115)
@@ -9,13 +9,17 @@
 
 ## 1. 安装docsify
 
+### 安装两个软件
+- __`Node`__
+- __`js`__
 
-
+### github账号
+- 部署
 
 
 ## 2. 上传到github
 
-### 2.1 ==**问题**==
+### 2.1 问题
 
 ```shell
 git push -u origin master
@@ -57,6 +61,9 @@ git push -u origin main
 ```
 
 
+## 配置Docsify用到的插件
+
+经过以下网站，选择了`themeable-simple`主题，并且安装了插件，才得到现在docsify的模样。
 
 - [Docsify 的 LaTex支持 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/363113255)
 - [使用Markmap将docsify中的markdown通过思维导图的形式展示出来 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/352795634)
