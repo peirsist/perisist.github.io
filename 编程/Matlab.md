@@ -1,20 +1,20 @@
 # <font face="Monaco">Matlab</font>
-<style>
+<!-- <style>
 blockquote {
   border-left: 2px dashed #333 !important;
   background:  #e4f2fe 0% !important;  
 }
-</style>
+</style> -->
 ## 学习建议
 
 #### <u>东北大学薛定宇教授</u>
-> 💡  <font face="Monaco">**Tips**</font>
-> 
+
+> [!TIP]
 > **带着问题学**，活学活用，学用结合，**急用先学**，立竿见影，**要在‘用’字上狠下工夫。**
 
 #### <u>网课某老师</u>
-> 💡  <font face="Monaco">**Tips**</font>
-> 
+
+> [!TIP]
 > **大家的目标不要想着成为什么 “<font face="Monaco">Matlab</font> 方面的大拿”，而是要用 <font face="Monaco">Matlab</font> 解决自己的学术或工程问题，从而变为自己领域内的“小能手”。**
 >
 > **基础课的目的不在于精通，而是“知道有这么回事”**，等你要用了，知道在哪能查到这个功能，然后再去试验。
