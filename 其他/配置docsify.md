@@ -74,5 +74,6 @@ git push -u origin main
 - [(ฅ>ω<*ฅ) 噫又好了~Docsify进阶配置 | 小四先生的博客 (zxiaosi.cn)](https://zxiaosi.cn/archives/cd1d42d1.html)
 - [主题](https://jhildenbiddle.github.io/docsify-themeable/#/options)
 - [font-weight - CSS（层叠样式表） | MDN (mozilla.org)](https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-weight)
+- [Writing more pages (docsify.js.org)如何写docsify的文件](https://docsify.js.org/#/more-pages?id=sidebar)
 - 
 
