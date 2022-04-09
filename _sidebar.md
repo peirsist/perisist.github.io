@@ -3,8 +3,8 @@
     - [科研有用的网站](科研/科研有用的网站)
     - [命名数据网络](科研/命名数据网络)
 - 📁 安装软件
-    - [安装<font face="Monaco">ndnSIM</font>](安装软件/)
-    - [<font face="Monaco">VS</font>新建<font face="Monaco">cpp</font>自动添加作者版权等信息](安装软件/VS新建cpp自动添加作者版权等信息)
+    - [安装ndnSIM](安装软件/)
+    - [VS新建cpp自动添加作者版权等信息](安装软件/VS新建cpp自动添加作者版权等信息)
 - 💾 软件使用
     - [LaTex](软件使用/LaTex)
     - [Origin](软件使用/Origin)

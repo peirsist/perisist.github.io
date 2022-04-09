@@ -1,26 +1,26 @@
 # 安装Ubuntu和ndnSIM遇到的问题
 
-- 安装好Ubuntu后，无法复制粘贴
+### <mark>安装好Ubuntu后，无法复制粘贴</mark>
 
-  - 先去装Vmstation tools，安装过程中会遇到的问题。需要在虚拟机中设置一下
-  - 但仍然无法复制粘贴 参考[**虚拟机安装好了VMtools了,但是还是不能实现文件拖拽和复制功能？ - 知乎 (zhihu.com)**](https://www.zhihu.com/question/41586989)
-  - 埋坑_办法是 先vmware-uninstall-tools.pl把你安装的不能运行的vmtools卸载了.然后 apt-get install open-vm-tools-desktop。 reboot。then ok
+  - 先去装`Vmstation tools`，安装过程中会遇到的问题。需要在虚拟机中设置一下
+  - 但仍然无法复制粘贴 参考[虚拟机安装好了VMtools了,但是还是不能实现文件拖拽和复制功能？(zhihu.com)](https://www.zhihu.com/question/41586989)
+  - **埋坑**_办法是 先`vmware-uninstall-tools.pl`把你安装的不能运行的`vmtools`卸载了.然后 `apt-get install open-vm-tools-desktop`。 `reboot`。then ok
 
-- Ubuntu字体大小更改
+### <mark>Ubuntu字体大小更改</mark>
 
   - **[如何调整Ubuntu的字体大小？](https://blog.csdn.net/dghcs18/article/details/104420127)**
 
-- Ubuntu更改源
+- `Ubuntu`更改源
 
-- 安装ndnSIM后，无法可视化。
+### <mark>安装ndnSIM后，无法可视化。</mark>
 
   - **[ndnSIM安装教程](https://blog.csdn.net/GregoryHanson/article/details/83036964)**
 
   - 在尝试了网上所有办法后，仍是不行。以下是尝试仍然不行的：
 
-  <img src="https://img-blog.csdnimg.cn/20200316154116957.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk3NDQxMw==,size_16,color_FFFFFF,t_70" alt="可以看到ndnSIM是enabled的" style="zoom: 67%;" />
+  <img src="https://img-blog.csdnimg.cn/20200316154116957.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk3NDQxMw==,size_16,color_FFFFFF,t_70" alt="可以看到ndnSIM是enabled的" style="zoom: 50%;" />
 
-  **图中的Python Binding 和PyViz visualizer都是 not enabled**
+  **可以看到图中的Python Binding 和PyViz visualizer都是 not enabled**
 
   - **[ndnSIM中可视化的解决办法-CSDN博客](https://blog.csdn.net/xiaoxin990214/article/details/70157263)**
   - **[ndnSIM 2.0 因缺少pythonbind无法使用visual组件问题 —pybindgen (found '') ".. ns3::VisualSimulatorImpl not found"](https://blog.csdn.net/neuwyt/article/details/52242853)**
@@ -28,7 +28,7 @@
 
   原因在于python依赖的安装包没有安装。
 
-  - **python Binding解决**
+  ### **python Binding解决**
 
     - 安装python3
 
@@ -43,7 +43,7 @@
 
     - **[ubuntu18下 ndnSIM安装过程详解。](https://blog.csdn.net/weixin_43974413/article/details/104899594)**
 
-  - **PyViz visualizer解决**
+  ###  **PyViz visualizer解决**
 
     - ```pyhton
       sudo apt-get install python-dev python-pygraphviz python-kiwi python-pygoocanvas python-gnome2 gir1.2-goocanvas-2.0 python-rsvg
@@ -67,13 +67,13 @@
 
     - 重新编译，终于安装好了
 
+### 其他参考网站
 
+- [NS3快速入门（使用VScode查看、编译代码）](https://blog.csdn.net/weixin_43314519/article/details/106531060)
 
-[NS3快速入门（使用VScode查看、编译代码）](https://blog.csdn.net/weixin_43314519/article/details/106531060)
+- [NS3 入门环境搭建（VM虚拟机+Ubuntu，常见错误解析）](https://blog.csdn.net/weixin_43314519/article/details/106504008)
 
-[NS3 入门环境搭建（VM虚拟机+Ubuntu，常见错误解析）](https://blog.csdn.net/weixin_43314519/article/details/106504008)
+- [使用vscode开发ns3项目（代码高亮、自动补全支持）](https://blog.csdn.net/fwhdzh/article/details/106292166)
 
-[使用vscode开发ns3项目（代码高亮、自动补全支持）](https://blog.csdn.net/fwhdzh/article/details/106292166)
-
-[vscode运行ns-3 - 国内版 Bing](https://cn.bing.com/search?q=vscode运行ns-3&form=ANNTH1&refig=062a1e9b111042da825ae882e17b4c22)
+- [vscode运行ns-3 - 国内版 Bing](https://cn.bing.com/search?q=vscode运行ns-3&form=ANNTH1&refig=062a1e9b111042da825ae882e17b4c22)
 
