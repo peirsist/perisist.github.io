@@ -1,6 +1,11 @@
-# <font face="Monaco">C/C++</font>
+# C/C++
 
-## 1、基本语法
+## C++基础知识
+```pdf
+	/pdf/C++语法.pdf
+``` 
+
+## 基本语法
 
 1. [<font face="Monaco">sprintf()</font>函数：将格式化的数据写入字符串_C语言中文网](http://c.biancheng.net/cpp/html/295.html)
    - <font face="Monaco">`sprintf()`</font>的作用是将一个格式化的字符串输出到一个**目的字符串**中，而<font face="Monaco">`printf()`</font>是将一个格式化的字符串**输出到屏幕**。
@@ -14,7 +19,7 @@
 
 ------
 
------
+
 
 ### **毕设遇到的编程问题：**
 
@@ -48,9 +53,9 @@
 - 
 
 ----
----
 
-# **C++生成随机数？**
+
+## C++生成随机数？
 
 - [C++产生随机数_on_june_7th的博客-CSDN博客_c++随机数](https://blog.csdn.net/on_june_7th/article/details/120392619)
 - [C++中rand()函数的用法_风暴计划的博客-CSDN博客_c++ rand()](https://blog.csdn.net/cmm0401/article/details/54599083)

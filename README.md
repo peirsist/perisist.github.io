@@ -30,18 +30,3 @@ blockquote {
 > **凡事做记录，这样可以避免狗熊掰棒子。**
 > 生活中，都会遇到一些难题，解决了难题，就会进步。遗憾的是，大部分人过分相信自己的记忆力，以为自己能记住，但实际上很快就忘了。等第二次、第三次遇到同一个问题时，还是束手无策，或者还要像第一次一样花很多时间去解决 (例如安装软件)。
 
-## 示例
-> [!NOTE]
-> An alert of type 'note' using global style 'callout'.
-
-> [!TIP]
-> An alert of type 'tip' using global style 'callout'.
-
-> [!WARNING]
-> An alert of type 'warning' using global style 'callout'.
-
-> [!ATTENTION]
-> An alert of type 'attention' using global style 'callout'.
-
-?> **Tip** notice with `inline code` and additional placeholder text used to
-force the content to wrap and span multiple lines.

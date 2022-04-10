@@ -75,5 +75,50 @@ git push -u origin main
 - [主题](https://jhildenbiddle.github.io/docsify-themeable/#/options)
 - [font-weight - CSS（层叠样式表） | MDN (mozilla.org)](https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-weight)
 - [Writing more pages (docsify.js.org)如何写docsify的文件](https://docsify.js.org/#/more-pages?id=sidebar)
-- 
+- [嵌入PDF](https://github.com/lazypanda10117/docsify-pdf-embed)
 
+## 文字高亮示例
+
+```markdown
+> [!NOTE]
+> An alert of type 'note' using global style 'callout'.
+```
+
+> [!NOTE]
+> An alert of type 'note' using global style 'callout'.
+
+```markdown
+> [!TIP]
+> An alert of type 'note' using global style 'callout'.
+```
+> [!TIP]
+> An alert of type 'tip' using global style 'callout'.
+
+```markdown
+> [!WARNING]
+> An alert of type 'note' using global style 'callout'.
+```
+> [!WARNING]
+> An alert of type 'warning' using global style 'callout'.
+
+```markdown
+> [!ATTENTION]
+> An alert of type 'note' using global style 'callout'.
+```
+> [!ATTENTION]
+> An alert of type 'attention' using global style 'callout'.
+
+```markdown
+> [!TIP|style:callout|label:测试]
+> An alert of type 'note' using global style 'callout'.
+```
+> [!TIP|style:callout|label:测试]
+> An alert of type 'tip' using global style 'callout'.
+
+```
+?> **Tip** notice with `inline code` and additional placeholder text used to
+force the content to wrap and span multiple lines.
+```
+
+?> **Tip** notice with `inline code` and additional placeholder text used to
+force the content to wrap and span multiple lines.
