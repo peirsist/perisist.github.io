@@ -1,11 +1,11 @@
-# C/C++
+## C/C++
 
-## C++基础知识
-```pdf
-	/pdf/C++语法.pdf
-``` 
+### C++基础知识
 
-## 基本语法
+
+
+
+### 基本语法
 
 1. [<font face="Monaco">sprintf()</font>函数：将格式化的数据写入字符串_C语言中文网](http://c.biancheng.net/cpp/html/295.html)
    - <font face="Monaco">`sprintf()`</font>的作用是将一个格式化的字符串输出到一个**目的字符串**中，而<font face="Monaco">`printf()`</font>是将一个格式化的字符串**输出到屏幕**。
@@ -55,7 +55,7 @@
 ----
 
 
-## C++生成随机数？
+### C++生成随机数？
 
 - [C++产生随机数_on_june_7th的博客-CSDN博客_c++随机数](https://blog.csdn.net/on_june_7th/article/details/120392619)
 - [C++中rand()函数的用法_风暴计划的博客-CSDN博客_c++ rand()](https://blog.csdn.net/cmm0401/article/details/54599083)
@@ -78,3 +78,6 @@ int num = rand() % 100 + 1;
 通常 **`rand()`** 产生的随机数在每次运行的时候都是与上一次相同的，这样是为了便于程序的调试。
 
 若要产生每次不同的随机数，则可以使用 **`srand( seed )`** 函数进行产生随机化种子，随着seed的不同，就能够产生     不同的随机数。
+
+
+- [C++生成最技术](编程/C++.md)

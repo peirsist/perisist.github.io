@@ -1,4 +1,4 @@
-# 安装Ubuntu和ndnSIM遇到的问题
+## 安装Ubuntu和ndnSIM遇到的问题
 
 ### <mark>安装好Ubuntu后，无法复制粘贴</mark>
 

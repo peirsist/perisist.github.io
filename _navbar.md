@@ -1,4 +1,4 @@
-- 开发必备
+<!-- - 开发必备
   - [**在线ASCII码表**](http://www.fly63.com/tool/ascii/)
   - [**正则表达式调试工具**](https://regexr.com/)
   - [**正则表达式可视化**](https://jex.im/regulex/)
@@ -29,7 +29,7 @@
   - [**中国大学MOOC**](https://www.icourse163.org/)
   - [**哔哩哔哩**](https://www.bilibili.com/)
   - [**学堂在线**](https://www.xuetangx.com/)
-  - [**Python**](https://edu.aliyun.com/roadmap/python?spm=5176.13345299.1392477.4.3bfef1538AwrO9)
+  - [**Python**](https://edu.aliyun.com/roadmap/python?spm=5176.13345299.1392477.4.3bfef1538AwrO9) -->
  
  
 <!-- - 技术文档

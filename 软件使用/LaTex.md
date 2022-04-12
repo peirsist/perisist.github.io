@@ -1,4 +1,4 @@
-# LaTex
+## LaTex
 
 
 
@@ -21,7 +21,7 @@
 - <mark>抄录一些行内的代码时，可以用\texttt{}命令</mark>> [Tex中如何使得 texttt 的英文自动断字](https://blog.csdn.net/weixin_30848775/article/details/98274223)
 
 
-## 常用的代码片段
+### 常用的代码片段
 
 
 ```latex
@@ -49,7 +49,7 @@
 
 
 
-## 插入公式
+### 插入公式
 
 #### 插入多行公式时，空格问题
 

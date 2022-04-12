@@ -1,4 +1,4 @@
-# URL和URI的区别
+## URL和URI的区别
 
 ### URI
 - **定义**：统一资源标志符(`Uniform Resource Identifier， URI`)，表示的是web上每一种可用的资源，如 HTML文档、图像、视频片段、程序等都由一个URI进行标识的。
