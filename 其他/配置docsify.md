@@ -76,7 +76,7 @@ git push -u origin main
 - [font-weight - CSS（层叠样式表） | MDN (mozilla.org)](https://developer.mozilla.org/zh-CN/docs/Web/CSS/font-weight)
 - [Writing more pages (docsify.js.org)如何写docsify的文件](https://docsify.js.org/#/more-pages?id=sidebar)
 - [嵌入PDF](https://github.com/lazypanda10117/docsify-pdf-embed)
-
+- [docsify 构建文档网站之定制功能（全网最全）](https://blog.csdn.net/wugenqiang/article/details/107071378)
 ## 文字高亮示例
 
 ```markdown
