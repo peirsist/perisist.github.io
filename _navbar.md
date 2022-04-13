@@ -16,7 +16,7 @@
   - [**随机数生成器**](https://www.zxgj.cn/g/suijishu)
   - [**在线编译套装**](https://c.runoob.com/)
   - [**在线文本比对**](http://www.fly63.com/tool/textdiff/) -->
-- 创作必备
+<!-- - 创作必备
   - [**在线画图工具**](https://www.processon.com/)
   - [**印象笔记**](https://www.yinxiang.com/)
   - [**有道笔记**](https://note.youdao.com/)
@@ -29,7 +29,7 @@
   - [**中国大学MOOC**](https://www.icourse163.org/)
   - [**哔哩哔哩**](https://www.bilibili.com/)
   - [**学堂在线**](https://www.xuetangx.com/)
-  - [**Python**](https://edu.aliyun.com/roadmap/python?spm=5176.13345299.1392477.4.3bfef1538AwrO9)
+  - [**Python**](https://edu.aliyun.com/roadmap/python?spm=5176.13345299.1392477.4.3bfef1538AwrO9) -->
  
  
 <!-- - 技术文档
