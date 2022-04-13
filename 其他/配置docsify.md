@@ -78,6 +78,7 @@ git push -u origin main
 - [嵌入PDF](https://github.com/lazypanda10117/docsify-pdf-embed)
 - [docsify 构建文档网站之定制功能（全网最全）](https://blog.csdn.net/wugenqiang/article/details/107071378)
 -[使用docsify写文档写文档](https://blog.hszofficial.site/recommend/2020/11/18/%E4%BD%BF%E7%94%A8docsify%E5%86%99%E6%96%87%E6%A1%A3/)
+- [封面图-视觉中国](https://www1.visualchina.com/creative-image/shu/?assetFormat%5B0%5D=png&page=23)
 
 
 ### 文字高亮示例

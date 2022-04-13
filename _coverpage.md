@@ -2,7 +2,7 @@
 <!-- ![logo](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/r2coding_logo_cover.7hb2s8l3eqk0.png) -->
 <!-- # 可可的知识库 -->
 <!-- <div align=center> -->
-<img src=img\Books.png width = 39%/>
+<img src=img\VCG211359206779.png width = 75%/>
 <!-- </div> -->
 
 - 一个正在慢慢进化的个人知识库
@@ -13,6 +13,5 @@
 
 <!-- ## 记住，一定要善用 `Ctrl+F` 哦！ -->
 
-[Github](https://github.com/)
+[项目地址](https://github.com/peirsist/perisist.github.io)
 [开启阅读](README.md)
-
