@@ -2,7 +2,9 @@
 
 ### C++基础知识
 
-
+```pdf
+pdf/C++语法.pdf
+```
 
 
 ### 基本语法
@@ -50,6 +52,12 @@
 
 - [C++ 报错 error: ‘xxx’ was not declared in this scope_wongHome的博客-CSDN博客](https://blog.csdn.net/qq_39779233/article/details/107585014)
 
+- [const char * 、char const *、 char * const 三者的区别_SilentOB的博客](https://blog.csdn.net/silentob/article/details/76994618)
+
+- [C++中const char*, string 与char*的转化_风居住de街道的博客-CSDN博客](https://blog.csdn.net/zhang_alongzd/article/details/52790905)
+
+- [C++ 中 string和char* 的区别 - Tsingke - 博客园 (cnblogs.com)](https://www.cnblogs.com/tsingke/p/12075078.html)
+
 - 
 
 ----
@@ -73,7 +81,7 @@ int num = rand() % 100 + 1;
 
 **一般性** ：`rand() % (b-a+1)+ a `;   就表示  __`a~b`__ 之间的一个随机整数。
 
-若要产生 __`0-1`__ 之间的小数，则可以先取得 __`0-10`__ 的整数，然后均除以 __`10`__ 即可得到“随机到十分位”的 __`10`__ 个随机小数。
+若要产生 __`0-1`__ 之间的小数，则可以先取得 `0-10`的整数，然后均除以 __`10`__ 即可得到“随机到十分位”的 __`10`__ 个随机小数。
 
 通常 **`rand()`** 产生的随机数在每次运行的时候都是与上一次相同的，这样是为了便于程序的调试。
 
