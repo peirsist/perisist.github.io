@@ -31,14 +31,15 @@ pdf/C++语法.pdf
 
 - [C++将一个cpp文件中的变量应用到另一个cpp文件中_公子恒的博客-CSDN博客](https://blog.csdn.net/qq_27942333/article/details/84719737)
 
-  ```C++
+```c
   int i; //声明并定义 
   extern int i; //声明 
   extern int i=10; //定义 
    
   void f(); //声明 
   void f() {}; //定义
-  ```
+```
+
 
 - [C++ getline函数用法详解 (biancheng.net)](http://c.biancheng.net/view/1345.html)
 
@@ -57,6 +58,16 @@ pdf/C++语法.pdf
 - [C++中const char*, string 与char*的转化_风居住de街道的博客-CSDN博客](https://blog.csdn.net/zhang_alongzd/article/details/52790905)
 
 - [C++ 中 string和char* 的区别 - Tsingke - 博客园 (cnblogs.com)](https://www.cnblogs.com/tsingke/p/12075078.html)
+
+- [C++ 内存溢出&内存泄漏_AiChiMomo.的博客-CSDN博客_c++ 内存溢出](https://blog.csdn.net/qq_37368095/article/details/88525204?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_default&utm_relevant_index=2)
+
+- [从缓冲系统文件到常见栈溢出函数_Retrovich的博客-CSDN博客_函数栈溢出](https://blog.csdn.net/Retrovich/article/details/84623641?spm=1035.2023.3001.6557&utm_medium=distribute.pc_relevant_bbs_down_v2.none-task-blog-2~default~OPENSEARCH~Rate-8.pc_relevant_bbs_down_v2_default&depth_1-utm_source=distribute.pc_relevant_bbs_down_v2.none-task-blog-2~default~OPENSEARCH~Rate-8.pc_relevant_bbs_down_v2_default)
+
+- [文件读写完后fclose（）就内存溢出-CSDN社区](https://bbs.csdn.net/topics/390681492)
+
+- **[C语言自定义函数如何返回数组_renyuxiaomei的博客-CSDN博客_返回数组的函数怎么写](https://blog.csdn.net/renyuxiaomei/article/details/78439864)**
+
+- [用数组作为函数返回值_Gavechan的博客-CSDN博客_数组作为返回值](https://blog.csdn.net/gavechan/article/details/45542913)
 
 - 
 
@@ -86,4 +97,6 @@ int num = rand() % 100 + 1;
 通常 **`rand()`** 产生的随机数在每次运行的时候都是与上一次相同的，这样是为了便于程序的调试。
 
 若要产生每次不同的随机数，则可以使用 **`srand( seed )`** 函数进行产生随机化种子，随着seed的不同，就能够产生     不同的随机数。
+
+
 
