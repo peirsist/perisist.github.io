@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "dbfd9c0140bd0800",
+    "type": "split",
+    "children": [
+      {
+        "id": "1338ad94a1f71f97",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "学习方法/学习计划.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48e77c44286eda5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e679c6b1d0e9aafe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5379d5d1d733be80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "053451e70b30735c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db76eea111f57741",
+    "type": "split",
+    "children": [
+      {
+        "id": "33427c4ef84a8110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ee17554f995ca2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学习方法/学习计划.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1338ad94a1f71f97",
+  "lastOpenFiles": [
+    "学习方法/学习计划.md",
+    "学习方法/学习方法总.md",
+    "科研/命名数据网络.md",
+    "Untitled.md",
+    "计算机基础/计算机总.md",
+    "计算机基础/URI和URL的区别.md",
+    "其他/其他总.md",
+    "安装软件/NFD安装.md",
+    "英语学习/生词.md",
+    "_footer.md"
+  ]
+}

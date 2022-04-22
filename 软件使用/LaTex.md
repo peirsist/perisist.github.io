@@ -17,8 +17,9 @@
 - [LATEX调整公式、图片与正文间距离，文字间距离，调整空白大小_风景不在对岸wj的博客-CSDN博客_latex调整图片与文字的距离](https://blog.csdn.net/u011089523/article/details/83578005?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1.pc_relevant_antiscanv2&utm_relevant_index=1)
 - [LaTeX 在编译时出现 File ended while scanning use of \@writefile错误_weixin_34054866的博客-CSDN博客](https://blog.csdn.net/weixin_34054866/article/details/86250933)
 - [latex: 改变图的caption Figure 1:为 Fig. 1.](https://blog.csdn.net/fandroid/article/details/50930137)
-
 - <mark>抄录一些行内的代码时，可以用\texttt{}命令</mark>> [Tex中如何使得 texttt 的英文自动断字](https://blog.csdn.net/weixin_30848775/article/details/98274223)
+- [使用latex book类的每章首页的页眉怎么设置？_百度知道 (baidu.com)](https://zhidao.baidu.com/question/1964965103546603140.html)
+- [latex 中的长度单位，尺寸](https://blog.csdn.net/robert_chen1988/article/details/52739825)
 
 
 ### 常用的代码片段
@@ -80,6 +81,21 @@
 \end{equation
 ```
 
+#### 页眉
 
+```latex
+只给每一章首页加页眉
 
+\makeatletter
+  \let\ps@plain\ps@empty
+\makeatother
+\fancypagestyle{plain}{%
+    \fancyhf{} %
+    \fancyhead[LO,RE]{...} %
+    \fancyhead[RO,LE]{...} %
+    \fancyfoot[C]{...} %
+    \renewcommand{\headrulewidth}{0.4pt}  %
+    \renewcommand{\footrulewidth}{0.4pt}  %
+}
+```
 

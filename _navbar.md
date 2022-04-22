@@ -1,4 +1,4 @@
-<!-- - 开发必备
+- 开发必备
   - [**在线ASCII码表**](http://www.fly63.com/tool/ascii/)
   - [**正则表达式调试工具**](https://regexr.com/)
   - [**正则表达式可视化**](https://jex.im/regulex/)
@@ -15,7 +15,9 @@
   - [**IP地址查询**](https://www.ipip.net/ip.html)
   - [**随机数生成器**](https://www.zxgj.cn/g/suijishu)
   - [**在线编译套装**](https://c.runoob.com/)
-  - [**在线文本比对**](http://www.fly63.com/tool/textdiff/) -->
+  - [**在线文本比对**](http://www.fly63.com/tool/textdiff/)
+  - [模糊图片清晰](https://bigjpg.com/)
+
 <!-- - 创作必备
   - [**在线画图工具**](https://www.processon.com/)
   - [**印象笔记**](https://www.yinxiang.com/)
@@ -24,12 +26,13 @@
   - [**幕 布**](https://mubu.com/)
   - [**石墨文档**](ttps://shimo.im/)
   - [**为知笔记**](https://www.wiz.cn/)
-  - [**语 雀**](https://www.yuque.com/)
+  - [**语 雀**](https://www.yuque.com/) -->
+  
 - 学习网站
   - [**中国大学MOOC**](https://www.icourse163.org/)
   - [**哔哩哔哩**](https://www.bilibili.com/)
   - [**学堂在线**](https://www.xuetangx.com/)
-  - [**Python**](https://edu.aliyun.com/roadmap/python?spm=5176.13345299.1392477.4.3bfef1538AwrO9) -->
+  - [**Python**](https://edu.aliyun.com/roadmap/python?spm=5176.13345299.1392477.4.3bfef1538AwrO9) 
  
  
 <!-- - 技术文档
