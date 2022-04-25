@@ -20,7 +20,8 @@
 - <mark>抄录一些行内的代码时，可以用\texttt{}命令</mark>> [Tex中如何使得 texttt 的英文自动断字](https://blog.csdn.net/weixin_30848775/article/details/98274223)
 - [使用latex book类的每章首页的页眉怎么设置？_百度知道 (baidu.com)](https://zhidao.baidu.com/question/1964965103546603140.html)
 - [latex 中的长度单位，尺寸](https://blog.csdn.net/robert_chen1988/article/details/52739825)
-
+- [latex消除每章节之间空白页](https://blog.csdn.net/weixin_41672404/article/details/112982523?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_antiscanv2)
+- [LATEX--页边距设置](https://blog.csdn.net/nccccc12345/article/details/115335255)
 
 ### 常用的代码片段
 
