@@ -22,6 +22,24 @@
 - [latex 中的长度单位，尺寸](https://blog.csdn.net/robert_chen1988/article/details/52739825)
 - [latex消除每章节之间空白页](https://blog.csdn.net/weixin_41672404/article/details/112982523?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_antiscanv2)
 - [LATEX--页边距设置](https://blog.csdn.net/nccccc12345/article/details/115335255)
+- [texstudio / sublime text 3 - latextools使用minted包遇到的一些问题的解决办法](https://blog.csdn.net/Stool_Monster/article/details/107610030)
+- [Winedt编译minted宏包问题](https://blog.csdn.net/gogdizzy/article/details/9136239)
+- [WinEdt开启write18和shell-escape](https://lttt.vanabel.cn/2015/03/27/winedt%e5%bc%80%e5%90%afwrite18%e5%92%8cshell-escape.html)
+- [用Beamer制作幻灯片（卷三 动画篇）_君的名字的博客-CSDN博客_beamer 动画](https://blog.csdn.net/chichoxian/article/details/19134695#:~:text=在Latex中s,（一般是红色）。)
+- [LaTeX多种颜色标注高亮修改内容 - 1024搜-程序员专属的搜索引擎 (1024sou.com)](https://www.1024sou.com/article/940683.html)
+- **[【LaTeX】制作 PPT （更新中） - ywang_wnlo - 博客园 (cnblogs.com)](https://www.cnblogs.com/ywang-wnlo/p/LaTeX-Beamer.html)**
+- [从零开始用beamer做学术报告幻灯片 | 墘青 (alexander-qi.github.io)](https://alexander-qi.github.io/2019/teachbeamer/)
+- [Sublime Text4编译完LaTex后又自动弹出一个窗口什么情况？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/482758306)
+- [Sublime Text+LaTeX每次编译时都会新建窗口的问题解决_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18u411e7mg/)
+- [LaTeX技巧788：beamer中的图表编号问题 - LaTeX科技排版工作室 (latexstudio.net)](https://www.latexstudio.net/archives/2464.html)
+- [Beamer入门 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/389828721)
+- [Sublime text 3 + Latex + SumatraPDF反向检索_ta酱mua的博客-CSDN博客](https://blog.csdn.net/m0_38006970/article/details/95102613)
+- [请问latex的beamer怎么将页面4:3设置为16:9? - 知乎 (zhihu.com)](https://www.zhihu.com/question/357511411)
+- [Beamer制作演示文档-1：在每个章节前面显示目录 - 南宫二狗 - 博客园 (cnblogs.com)](https://www.cnblogs.com/nangongergou/p/13606758.html)
+- [Latex error: No line here to end （已解决）__52Hz_的博客-CSDN博客](https://blog.csdn.net/G_Barble/article/details/106184870)
+- [beamer模板设计（八）beamer中颜色的设置和继承关系 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/137877025)
+- [假装认真的LaTeX学习笔记（2）—— LaTeX中如何修改字体（fontspec宏包使用方法）_羊坨不是羊驼的博客-CSDN博客_fontspec](https://blog.csdn.net/qq_20260069/article/details/88380579)
+- 
 
 ### 常用的代码片段
 

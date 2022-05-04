@@ -69,7 +69,9 @@ pdf/C++语法.pdf
 
 - [用数组作为函数返回值_Gavechan的博客-CSDN博客_数组作为返回值](https://blog.csdn.net/gavechan/article/details/45542913)
 
-- 
+- [错误信息was not declared in this scope](https://blog.csdn.net/ac1085589289/article/details/85077580)
+
+-[C++, 想要使用string ,必须要用命名空间 std](https://blog.csdn.net/sergery/article/details/8144731)
 
 ----
 
